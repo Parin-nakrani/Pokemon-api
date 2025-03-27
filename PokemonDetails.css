@@ -1,0 +1,44 @@
+/* PokemonDetails.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #ff6347; /* Tomato color */
+    text-align: center;
+  }
+  
+  h2 {
+    color: #4682b4; /* Steel blue */
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    
+    border-radius: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 24px;
+  }
+  .new{
+    background-color: rgba(127, 255, 212, 0.447);
+  }
