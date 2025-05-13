@@ -1,7 +1,7 @@
 
 
 
-import React from 'react';
+import React from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Pokemon } from './Pokemon'; // Your main Pokémon component
 //import PokemonDetail from './PokemonDetail'; // Your detail component
